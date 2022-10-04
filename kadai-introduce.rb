@@ -1,5 +1,5 @@
-Last_name = "小林"
-First_name = "綾香"
-Age = "19"
+last_name = "小林"
+first_name = "綾香"
+age = 19
 
-puts Last_name + First_name + "です。" + Age + "です。"
+puts last_name + first_name + "です。" + age.to_s + "です。"
